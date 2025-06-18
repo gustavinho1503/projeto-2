@@ -1,8 +1,24 @@
 body {
     background-color: bisque;
     font-family: Bai Jamjuree;
-    {
+}
  
+#container{
+     display: flex;
+}
+
+.cartão{
+     margin: 1rem 1rem;
+}    
+
+
+
+
+
+
+
+
+
 footer {
     background-color: black;
     color: white;
